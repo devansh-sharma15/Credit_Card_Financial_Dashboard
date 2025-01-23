@@ -1,4 +1,3 @@
 # Credit_Card_Financial_Dashboard
 Credit Card Transaction and Customer Dashboard using Power BI
-
-![Customer_report_Demo](https://github.com/devansh-sharma15/Credit_Card_Financial_Dashboard/edit/master/Img/Customer_report.PNG)
+![Image](https://github.com/user-attachments/assets/53b4d00d-4cc3-46aa-8168-61225fd7e740)

@@ -2,7 +2,7 @@
 
 ## Customer Report Dashboard
 
-![Image](https://github.com/user-attachments/assets/53b4d00d-4cc3-46aa-8168-61225fd7e740)
+![Image](https://github.com/user-attachments/assets/d8c7a6cc-eff0-450a-98f5-a25acc5053d9)
 
 ## Credit Card Transaction Report
 
